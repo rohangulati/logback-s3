@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <maven.jar.plugin.version>3.1.2</maven.jar.plugin.version>
     </properties>
